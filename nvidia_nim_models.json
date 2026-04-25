@@ -74,6 +74,18 @@
             "owned_by": "deepseek-ai"
         },
         {
+            "id": "deepseek-ai/deepseek-v4-flash",
+            "object": "model",
+            "created": 735790403,
+            "owned_by": "deepseek-ai"
+        },
+        {
+            "id": "deepseek-ai/deepseek-v4-pro",
+            "object": "model",
+            "created": 735790403,
+            "owned_by": "deepseek-ai"
+        },
+        {
             "id": "google/codegemma-1.1-7b",
             "object": "model",
             "created": 735790403,
@@ -396,6 +408,12 @@
             "object": "model",
             "created": 735790403,
             "owned_by": "nv-mistralai"
+        },
+        {
+            "id": "nvidia/ai-synthetic-video-detector",
+            "object": "model",
+            "created": 735790403,
+            "owned_by": "nvidia"
         },
         {
             "id": "nvidia/cosmos-reason2-8b",
