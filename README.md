@@ -292,7 +292,7 @@ alias claude-kimi='ANTHROPIC_BASE_URL="http://localhost:8082" ANTHROPIC_AUTH_TOK
 ### Install as a Package (no clone needed)
 
 ```bash
-uv tool install git+https://github.com/Alishahryar1/free-claude-code.git
+uv tool install git+https://github.com/isatyabrata/free-claude-code.git
 fcc-init        # creates ~/.config/free-claude-code/.env from the built-in template
 ```
 
